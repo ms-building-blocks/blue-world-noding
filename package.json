@@ -19,5 +19,8 @@
   "keywords": [
     "awesome",
     "data"
-  ]
+  ],
+  "dependencies": {
+    "hapi": "^16.6.2"
+  }
 }
