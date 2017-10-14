@@ -1,0 +1,23 @@
+{
+  "name": "blue-world-noding",
+  "version": "1.0.0",
+  "description": "An application that does awesome excellent things!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adron/blue-world-noding.git"
+  },
+  "author": "Adron Hall",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Adron/blue-world-noding/issues"
+  },
+  "homepage": "https://github.com/Adron/blue-world-noding#readme",
+  "keywords": [
+    "awesome",
+    "data"
+  ]
+}
